@@ -251,6 +251,18 @@ h4{
   margin-top: 0;      
 }
 
+.footer {
+    font-size: 16px;
+    padding-bottom: 41px;
+    padding-top: 38px;
+    background-color: #ffffff68;
+    color: #4f34a0;
+    text-align: center;
+}
+.footer p{
+    width: 958px;
+    margin: auto;
+}
 
 .divider {
   border: none;
@@ -260,3 +272,4 @@ h4{
   margin: 40px auto;
   border-radius: 2px;
 }
+
