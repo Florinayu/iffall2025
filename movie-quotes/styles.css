@@ -1,0 +1,49 @@
+body {
+    font-family: "gyst-variable", sans-serif;
+    background-color: #111;
+    color: #eee;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    letter-spacing: 1px;
+}
+
+.scene {
+    padding: 25px;
+    margin-bottom: 30px;
+
+}
+
+
+.scene-one {
+    background-color: rgba(255, 255, 255, 0.08);
+
+}
+
+
+.scene-two {
+    background-color: rgba(255, 255, 255, 0.12);
+ 
+}
+
+.scene-three {
+    background-color: rgba(255, 255, 255, 0.10);
+}
+
+.stage-direction {
+    font-style: italic;
+    color: #ccc;
+    opacity: 0.9;
+}
+
+.scene p {
+    margin: 10px 0;
+    line-height: 1.6;
+}
